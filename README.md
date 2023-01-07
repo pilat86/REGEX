@@ -1,4 +1,4 @@
-Program a function that checks if the given string is a contact. A contact is defined as follows: "name phone number birth number", where:
+Function that checks if the given string is a contact. A contact is defined as follows: "name phone number birth number", where:
 
 NAME:
 
