@@ -1,3 +1,5 @@
+# REGEX
+
 - **Function that checks if the given string is a contact.**
   - **A contact is defined as follows: __"name phone number birth number"__, where:**
 
